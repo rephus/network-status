@@ -1,0 +1,14 @@
+{
+  "name": "network-status",
+  "dependencies": {
+    "body-parser": "1.0.2",
+    "express": "4.1.1",
+    "node-env-file": "^0.1.4",
+    "sqlite3": "3.0.5",
+    "winston": "^2.1.1",
+    "winston-papertrail": "^1.0.2"
+  },
+  "engine": {
+    "node": ">=0.10.25"
+  }
+}

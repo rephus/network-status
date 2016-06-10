@@ -1,0 +1,4 @@
+PORT=8790
+DEBUG=TRUE
+DB='/var/sqlite/network.db'
+NETWORK='192.168.2.*'
